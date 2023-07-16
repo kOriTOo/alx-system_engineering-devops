@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello "&&whoami | tr -d '\n'
+echo "hello $USER"
